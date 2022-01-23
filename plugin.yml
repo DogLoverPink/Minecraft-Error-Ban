@@ -1,0 +1,13 @@
+name: Error-Ban
+version: 1.0.4
+description: Adds the abililty to ban players, by giving them an error when they connect!
+author: DogLoverPink
+website: https://github.com/DogLoverPink
+main: main.App
+api-version: 1.18
+commands:
+   errorban:
+      description: Shows a fake error message on join for banned players
+      usage: Invalid Usage! do /ErrorBan <ban/unban/list/setMessage> [<player/newMessage>]
+      permission: errorban.use
+ 
