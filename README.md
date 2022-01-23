@@ -19,5 +19,6 @@ This is the main command to "Error-Ban" somebody, to use it, just do "/errorban 
   This is the command to set the error message when an errorbanned player attempts to join, by default it is set to "Connection refused: no further information", but it can be set to anything you like. The tab complete will suggest some common error messages used by minecraft, but they are not required to use these recomendations.
   ![image](https://user-images.githubusercontent.com/64995932/150690711-6d01f5d5-a933-40f5-85ac-88feb0d5d225.png)
 Default Error Message:
-  ![image](https://user-images.githubusercontent.com/64995932/150690733-419e123d-b2ce-4230-98c3-d381b812225a.png)
+  
+![image](https://user-images.githubusercontent.com/64995932/150690733-419e123d-b2ce-4230-98c3-d381b812225a.png)
 
